@@ -1,0 +1,21 @@
+League,Model,Optimized_R2,,Averages,
+Premier League,Ridge,0.771824133,,Ridge,0.757937409
+,Lasso,0.781719322,,Lasso,0.738770437
+,RandomForest,0.654191126,,RandomForest,0.693271917
+,XGBoost,0.64921768,,XGBoost,0.671492789
+,KNN,0.624225903,,KNN,0.672955915
+La Liga,Ridge,0.71261225,,,
+,Lasso,0.706106083,,,
+,RandomForest,0.654579544,,,
+,XGBoost,0.595663384,,,
+,KNN,0.66765965,,,
+Serie A,Ridge,0.754600592,,,
+,Lasso,0.728089239,,,
+,RandomForest,0.739166279,,,
+,XGBoost,0.789896533,,,
+,KNN,0.757594739,,,
+Bundesliga,Ridge,0.792712659,,,
+,Lasso,0.739167104,,,
+,RandomForest,0.725150722,,,
+,XGBoost,0.651193559,,,
+,KNN,0.642343369,,,
